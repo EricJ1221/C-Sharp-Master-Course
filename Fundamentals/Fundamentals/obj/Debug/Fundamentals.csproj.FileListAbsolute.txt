@@ -1,0 +1,8 @@
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe.config
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\bin\Debug\Fundamentals.exe
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\bin\Debug\Fundamentals.pdb
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.SuggestedBindingRedirects.cache
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\obj\Debug\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\obj\Debug\Fundamentals.exe
+C:\Users\erico\Desktop\C# Basics Code\Fundamentals\Fundamentals\obj\Debug\Fundamentals.pdb
