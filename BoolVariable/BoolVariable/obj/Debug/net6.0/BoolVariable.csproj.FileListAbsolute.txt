@@ -1,0 +1,15 @@
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\bin\Debug\net6.0\BoolVariable.exe
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\bin\Debug\net6.0\BoolVariable.deps.json
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\bin\Debug\net6.0\BoolVariable.runtimeconfig.json
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\bin\Debug\net6.0\BoolVariable.dll
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\bin\Debug\net6.0\BoolVariable.pdb
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.csproj.AssemblyReference.cache
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.AssemblyInfoInputs.cache
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.AssemblyInfo.cs
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.csproj.CoreCompileInputs.cache
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.dll
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\refint\BoolVariable.dll
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.pdb
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\BoolVariable.genruntimeconfig.cache
+C:\Users\erico\source\repos\BoolVariable\BoolVariable\obj\Debug\net6.0\ref\BoolVariable.dll

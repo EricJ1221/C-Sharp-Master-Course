@@ -1,0 +1,15 @@
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.exe
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.deps.json
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.runtimeconfig.json
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.dll
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\bin\Debug\net6.0\IntVariables.pdb
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.csproj.AssemblyReference.cache
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.AssemblyInfoInputs.cache
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.AssemblyInfo.cs
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.csproj.CoreCompileInputs.cache
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.dll
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\refint\IntVariables.dll
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.pdb
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\IntVariables.genruntimeconfig.cache
+C:\Users\erico\source\repos\IntVariablesApp\IntVariables\obj\Debug\net6.0\ref\IntVariables.dll
